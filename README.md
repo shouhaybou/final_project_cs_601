@@ -1,1 +1,2 @@
 # final_project_cs_601
+In this project I will be creating a REST API backend for a restaurant called Dosa. This project will utilize an SQLite database and FastAPI to provide access to three objects. I will be making an API that supports CRUD(create, read, update, delete) for three objets which are customers, items and orders.
